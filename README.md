@@ -1,7 +1,7 @@
 BC Consulting ! Free WordPress Theme 
 ========================================
 <br/>
-<h4><a href="https://demo.athemeart.com/bc/" target="_blank">Live Demo</a>  | <a href="https://wordpress.org/themes/bc-consulting/" target="_blank">Download Free Version</a> </h4>
+<h4><a href="https://demo.athemeart.com/bc/" target="_blank">Live Demo</a>  | <a href="https://wordpress.org/themes/bc-consulting/" target="_blank">Download Now</a> </h4>
 <br/>
 
 <img src="https://i0.wp.com/themes.svn.wordpress.org/bc-consulting/1.0.6/screenshot.png" alt="Free Consulting Theme" />
