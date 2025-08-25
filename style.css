@@ -5,9 +5,9 @@ Author: aThemeArt
 Author URI: https://athemeart.com/
 Description: The BC Consulting WordPress Theme offers a sleek, minimalist design combined with limitless customization options, making it perfect for advisory firms, consulting agencies, and a wide range of professional services. Its seamless integration with popular page builders like Elementor, WPBakery, Brizy, Beaver Builder, Visual Composer, SiteOrigin, and Gutenberg ensures a fluid user experience, while its intuitive visual layout allows for effortless creativity. With a variety of blog and page layouts, an unlimited color scheme, and a well-defined blueprint and structure, BC-Consulting is ideal for firms seeking an elegant, efficient, and highly adaptable web presence. The theme is also RTL and translation ready, ensuring accessibility across different languages. BC-Consulting supports essential plugins such as Contact Form 7, Breadcrumb NavXT, and Classic Widgets, making it an adaptable choice for industries like real estate, virtual assistant services, marketing agencies, design studios, and more. Whether you're running a co-working space, senior care service, or even a textile company, this template delivers a professional, creative solution that meets your business needs.
 Requires at least: 6.0.0
-Tested up to: 6.0
+Tested up to: 6.8.0
 Requires PHP: 7.0
-Version: 1.0.6
+Version: 1.1.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: bc-consulting
@@ -1252,4 +1252,11 @@ figure.alignright{
 }
 .header-info ul li:last-chid{
 	border: none;
+}
+button#submit-new{
+	padding-top: 9px;
+	padding-bottom: 9px;
+}
+#comments .widget-title{
+	position: relative;
 }
